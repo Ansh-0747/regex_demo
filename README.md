@@ -2,10 +2,10 @@
 # Regex Pattern Matching & Replacement Web App
 
 This project is a **Django + React** web application that:
-✅ Allows users to upload **CSV** or **Excel** files.
-✅ Lets users input a **column name**, a **natural language pattern description**, and a **replacement value**.
-✅ Uses a **Regex pattern** (generated dynamically) to match and replace content in the specified column.
-✅ Displays both the **uploaded data** and the **processed output** in side-by-side tables.
+- ✅ Allows users to upload **CSV** or **Excel** files.
+- ✅ Lets users input a **column name**, a **natural language pattern description**, and a **replacement value**.
+- ✅ Uses a **Regex pattern** (generated dynamically) to match and replace content in the specified column.
+- ✅ Displays both the **uploaded data** and the **processed output** in side-by-side tables.
 
 ---
 
